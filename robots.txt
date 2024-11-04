@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oweqoobu.github.io/MJL/sitemap_index.txt
+Sitemap: https://oweqoobu.github.io/SRt/sitemap_index.txt
+Sitemap: https://oweqoobu.github.io/agj/sitemap_index.txt
+Sitemap: https://oweqoobu.github.io/qKI/sitemap_index.txt
